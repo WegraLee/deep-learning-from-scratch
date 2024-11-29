@@ -1,7 +1,7 @@
 # coding: utf-8
 import numpy as np
 
-
+#branch에 들어갈 내용임
 def NAND(x1, x2):
     x = np.array([x1, x2])
     w = np.array([-0.5, -0.5])
